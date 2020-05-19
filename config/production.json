@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://vish03:vish03@devconnector-usplw.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "6215c1aaeebd21059f79",
+  "githubSecret": "5010e7f81f814f20b4f3214471641faaab465769"
+}
